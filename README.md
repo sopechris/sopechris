@@ -5,8 +5,8 @@
 Ex-Researcher at the [University of Houston](https://cescon.me.uh.edu);  
 Ex-Data Scientist at [Diatech Diabetes](https://diatechdiabetes.com?ref=github-sopechris);  
 
-⚙️ I use daily: `.py`, `.ipynb`, `.csv`, `.sql`, `.md`, `.tex` 
 🧬 Bio & MedTech  
+⚙️ I use daily: `.py`, `.ipynb`, `.csv`, `.sql`, `.md`, `.tex` 
 🌍 I'm mostly active in the healthcare & machine learning space  
 📊 Built models for CGM sensors, insulin pumps, and failure detection  
 💬 ping me about **data science**, **biophysics**, **wearable sensors**, **clinical data**, **reproducibility** etc.  
