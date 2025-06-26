@@ -7,6 +7,6 @@
 
 - 🧬 **Bio & MedTech**  
 - ⚙️ I use daily: `.py`, `.ipynb`, `.csv`, `.sql`, `.md`, `.tex`   
-- 🎓 Physicist | Data Scientist & ML Engineer
+- 🎓 *Physicist* | Data Scientist & ML Engineer
 - 🌍 I'm mostly active in the healthcare & machine learning space
 - 💬 `ping` me about **data science**, **biophysics**, **wearable sensors**, **clinical data**, **reproducibility** etc.  
