@@ -2,8 +2,8 @@
 
 #### A Data Scientist by day ☼ and a Machine Learning enthusiast by night ☾
 
-Ex-Researcher at the [University of Houston](https://cescon.me.uh.edu); 
-Ex-Data Scientist at [Diatech Diabetes](https://diatechdiabetes.com?ref=github-sopechris);<br>  
+Ex-Researcher at the [University of Houston](https://cescon.me.uh.edu);  
+Ex-Data Scientist at [Diatech Diabetes](https://diatechdiabetes.com?ref=github-sopechris);  
 
 ⚙️ I use daily: `.py`, `.ipynb`, `.csv`, `.sql`, `.md`, `.tex`   
 🌍 I'm mostly active in the healthcare & machine learning space  
