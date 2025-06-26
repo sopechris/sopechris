@@ -1,4 +1,4 @@
-# Hey, I'm Christian! 👋🏻
+# Hey, I'm Chris! 👋🏻
 
 #### A Data Scientist by day ☼ and a Machine Learning enthusiast by night ☾
 
