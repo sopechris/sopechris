@@ -1,12 +1,14 @@
-# Hey, I'm Chris! 👋🏻
+# Hey, I'm Chris 👋🏻
 
-#### A Data Scientist by day ☼ and a Machine Learning enthusiast by night ☾
+#### Data & ML Engineer building production systems for healthcare
 
-> Ex-Researcher at the [University of Houston](https://cescon.me.uh.edu);  
-> Ex-Data Scientist at [Diatech Diabetes](https://diatechdiabetes.com?ref=github-sopechris);  
+> Ex-Researcher at the [University of Houston](https://cescon.me.uh.edu)  
+> Ex-Data Scientist at [Diatech Diabetes](https://diatechdiabetes.com?ref=github-sopechris)  
+> R&D Engineer at [Zylk](https://www.zylk.net)
 
-- 🧬 **Bio & MedTech**  
-- ⚙️ I use daily: `.py`, `.ipynb`, `.csv`, `.sql`, `.xlsx`, `.md`, `.tex`   
-- 🎓 *Physicist* | Data Scientist & ML Engineer
-- 🌍 I'm mostly active in the healthcare & machine learning space
-- 💬 `ping` me about **data science**, **biophysics**, **wearable sensors**, **clinical data**, **reproducibility** etc.  
+- 🧬 **Healthcare, Bio & MedTech**
+- ⚙️ Daily stack: `.py`, `.java`, `.sql`, `.ipynb` | Kafka, Flink, Docker, IaC
+- 🎓 *Physicist* → ML, data systems & MLOps
+- 🌍 Working on streaming data, reproducible pipelines & ML in production
+- 💬 `ping` me about **ML systems**, **wearable sensors**, **clinical data**, **real-time pipelines**, **reproducibility**
+
